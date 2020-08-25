@@ -1,5 +1,3 @@
-## Flightsim Scenery
-
 This page contains scenery of some airports for Microsoft Flight Simulator.
 
 ### Installation Instructions
